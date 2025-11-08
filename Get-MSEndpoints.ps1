@@ -40,22 +40,13 @@ if (-not (Test-Path -Path $OutputDirectory)) {
     Write-Host "Created output directory: $OutputDirectory"
 }
 
-# Delete old files that don't match the new naming schema
-# Old schema: ms365_{{addrType}}_{{category}}_{{serviceArea}}.txt
-# New schema: ms365_{{serviceArea}}_{{addrType}}_{{category}}.txt
-# Pattern to match old schema: ms365_(url|ipv4|ipv6)_(opt|allow|default)_*.txt
+# Clean up output directory - remove all existing files before generating new ones
 if (Test-Path -Path $OutputDirectory) {
-    $oldFiles = Get-ChildItem -Path $OutputDirectory -Filter "ms365_*.txt" | Where-Object {
-        # Match old schema pattern: starts with addrType after ms365_
-        $_.Name -match '^ms365_(url|ipv4|ipv6)_(opt|allow|default)_'
-    }
+    $existingFiles = Get-ChildItem -Path $OutputDirectory -Filter "*.txt"
     
-    if ($oldFiles.Count -gt 0) {
-        Write-Host "Removing $($oldFiles.Count) files with old naming schema..."
-        $oldFiles | Remove-Item -Force
-        foreach ($file in $oldFiles) {
-            Write-Host "  Removed: $($file.Name)"
-        }
+    if ($existingFiles.Count -gt 0) {
+        Write-Host "Removing $($existingFiles.Count) existing file(s) from output directory..."
+        $existingFiles | Remove-Item -Force
     }
 }
 
