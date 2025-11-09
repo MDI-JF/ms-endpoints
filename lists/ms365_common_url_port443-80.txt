@@ -1,2 +1,0 @@
-*.office.net
-*.office365.com
