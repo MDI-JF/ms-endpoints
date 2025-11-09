@@ -1,0 +1,7 @@
+*.lync.com
+*.skype.com
+*.teams.cloud.microsoft
+*.teams.microsoft.com
+adl.windows.com
+teams.cloud.microsoft
+teams.microsoft.com

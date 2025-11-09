@@ -1,0 +1,5 @@
+*.keydelivery.mediaservices.windows.net
+*.streaming.mediaservices.windows.net
+aka.ms
+join.secure.skypeassets.com
+mlccdnprod.azureedge.net

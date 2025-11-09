@@ -14,7 +14,9 @@ Das Script `Get-MSEndpoints.ps1`:
   - **Service-Bereich**: z.B. `common`, `exchange`, `sharepoint`, `teams`
   - **Adresstyp**: `url`, `ipv4`, `ipv6`
   - **Kategorie**: `opt` (Optimize), `allow` (Allow), `default` (Default)
-- Erstellt Dateien im Format: `ms365_{{serviceArea}}_{{addrType}}_{{category}}.txt`
+- Erstellt zwei Arten von Dateien:
+  1. **Kategorie-basiert**: `ms365_{{serviceArea}}_{{addrType}}_{{category}}.txt`
+  2. **Port-basiert**: `ms365_{{serviceArea}}_{{addrType}}_port{{ports}}.txt`
 - Speichert alle Listen im Verzeichnis `/lists`
 
 ## Automatische Aktualisierung
