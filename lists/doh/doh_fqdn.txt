@@ -28,7 +28,6 @@ child-noads.joindns4.eu
 child.joindns4.eu
 chuncheon.dnsovertor.cc
 cloudflare-dns.com
-cryptostorm.is
 de01.dns4me.net
 dns.a47.me
 dns.aa.net.uk

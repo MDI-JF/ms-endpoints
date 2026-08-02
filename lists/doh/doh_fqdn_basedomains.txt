@@ -3,7 +3,6 @@
 adfreedns.top
 bazooki-infra.dev
 cloudflare-dns.com
-cryptostorm.is
 dns.google
 dns.pub
 dns4eu.online
