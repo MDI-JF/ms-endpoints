@@ -1,5 +1,4 @@
-﻿3dns.eu
-8888.google
+﻿8888.google
 abel.waringer-atg.de
 ada.openbld.net
 adblock.dns.mullvad.net
@@ -32,7 +31,6 @@ de01.dns4me.net
 dns.a47.me
 dns.aa.net.uk
 dns.adguard-dns.com
-dns.adnull.com
 dns.akbxr.com
 dns.alidns.com
 dns.anon.no
@@ -221,7 +219,6 @@ seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
 sky.rethinkdns.com
-sunnygyl.com
 syd.adfilter.net
 tiger.dns.qwer.pw
 uk01.dns4me.net

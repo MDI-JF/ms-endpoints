@@ -1,5 +1,4 @@
-﻿3dns.eu
-8888.google
+﻿8888.google
 adfreedns.top
 bazooki-infra.dev
 cloudflare-dns.com
@@ -24,7 +23,6 @@ regiopolis.cloud
 renardbleu.dev
 revelio.top
 safeservedns.com
-sunnygyl.com
 v.recipes
 v0dka.ru
 wikimedia-dns.org
