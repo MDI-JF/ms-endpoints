@@ -56,6 +56,7 @@ dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnshome.de
+dns.easyhns.com
 dns.elemental.software
 dns.envs.net
 dns.faked.org
@@ -91,6 +92,7 @@ dns.nick-slowinski.de
 dns.njal.la
 dns.novg.net
 dns.ofdoom.net
+dns.omada.cafe
 dns.paesa.es
 dns.paulo.nom.za
 dns.petqa.ru
@@ -177,6 +179,7 @@ gb-lon-w-p-2.nashkan.net
 gibblets.top
 glacius.top
 helios.plan9-dns.com
+hnsdoh.com
 ibuki.cgnat.net
 ie01.dns4me.net
 imperio.top
