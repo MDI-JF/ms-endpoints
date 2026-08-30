@@ -93,7 +93,6 @@ dns.novg.net
 dns.omada.cafe
 dns.paesa.es
 dns.paulo.nom.za
-dns.petqa.ru
 dns.practicallyunhackable.com
 dns.pub
 dns.quad9.net
