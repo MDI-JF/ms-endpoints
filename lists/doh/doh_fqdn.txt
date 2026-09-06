@@ -1,7 +1,6 @@
 ﻿8888.google
 abel.waringer-atg.de
 ada.openbld.net
-adblock.dns.mullvad.net
 adblock.krctech.dev
 adblock.mydns.network
 addns1.m-it.ro
@@ -15,11 +14,9 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 ag.apollohct.com
 agh.dshubham.xyz
-all.dns.mullvad.net
 anycast.uncensoreddns.org
 au-syd-w-f-1.nashkan.net
 au01.dns4me.net
-base.dns.mullvad.net
 bazooki-infra.dev
 ca01.dns4me.net
 ca02.dns4me.net
@@ -83,7 +80,6 @@ dns.marasov.id
 dns.mateo.ovh
 dns.mayx.eu.org
 dns.mh4ckt3mh4ckt1c4s.xyz
-dns.mullvad.net
 dns.mzjtechnology.com
 dns.neeb.it
 dns.nextdns.io
@@ -163,11 +159,9 @@ doh.viatech.com.tw
 doth.huque.com
 dukun.de
 es-ma.foxyfy.net
-extended.dns.mullvad.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.mullvad.net
 family.mydns.network
 fidelius.top
 freedns.controld.com
